@@ -34,8 +34,8 @@ _A mobile view of the project_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/Social-proof-section)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/Social-proof-section/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Social-proof-section)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Social-proof-section/)
 
 ## My process
 
